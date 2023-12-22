@@ -1,0 +1,4 @@
+#Fri Nov 03 23:20:26 ICT 2023
+base.0=H\:\\Kursus P2\\crypto_saving_apps\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
